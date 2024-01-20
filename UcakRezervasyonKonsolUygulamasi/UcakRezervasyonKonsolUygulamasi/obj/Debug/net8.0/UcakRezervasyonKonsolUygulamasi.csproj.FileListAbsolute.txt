@@ -1,0 +1,14 @@
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\obj\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\obj\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.AssemblyInfoInputs.cache
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\obj\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.AssemblyInfo.cs
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\obj\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\bin\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.exe
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\bin\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.deps.json
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\bin\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.runtimeconfig.json
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\bin\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.dll
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\bin\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.pdb
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\obj\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.dll
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\obj\Debug\net8.0\refint\UcakRezervasyonKonsolUygulamasi.dll
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\obj\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.pdb
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\obj\Debug\net8.0\UcakRezervasyonKonsolUygulamasi.genruntimeconfig.cache
+C:\Users\gurka\source\repos\UcakRezervasyonKonsolUygulamasi\UcakRezervasyonKonsolUygulamasi\obj\Debug\net8.0\ref\UcakRezervasyonKonsolUygulamasi.dll

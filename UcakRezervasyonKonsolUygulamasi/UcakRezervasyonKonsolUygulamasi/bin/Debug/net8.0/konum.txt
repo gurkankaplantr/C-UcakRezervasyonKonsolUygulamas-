@@ -1,0 +1,9 @@
+İngiltere,Londra,Heathrow Havalimanı
+Almanya,Berlin,Tegel Havalimanı
+Fransa,Paris,Charles de Gaulle Havalimanı
+İtalya,Roma,Fiumicino Havalimanı
+İspanya,Madrid,Barajas Havalimanı
+ABD,New York,JFK Havalimanı
+Kanada,Toronto,Pearson Havalimanı
+Japonya,Tokyo,Haneda Havalimanı
+Güney Kore,Seul,Incheon Havalimanı
